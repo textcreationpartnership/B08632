@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Ewelm Hospital, appellants in relation to Wayhil-Fair, against the Corporation of Andover</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08632</idno>
+            <idno type="STC">Wing C912CA</idno>
+            <idno type="STC">ESTC R227848</idno>
+            <idno type="EEBO-CITATION">61296891</idno>
+            <idno type="OCLC">ocm 61296891</idno>
+            <idno type="VID">180479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180479)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Ewelm Hospital, appellants in relation to Wayhil-Fair, against the Corporation of Andover</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Suffolk, William de la Pole, --  Duke of, 1396-1450.</term>
+               <term>City of Andover (England). --  Corporation.</term>
+               <term>Wayhil Fair.</term>
+               <term>Fairs --  Laws and legislation --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180479:1"/>
+            <head>The CASE of Ewelm Hoſpital, Appellants, in Relation to Wayhil-Fair, againſt the Corporation of Andover.</head>
+            <p>THAT <hi>William De La Pool,</hi> Duke of <hi>Suffolk,</hi> being heretofore ſeized of the Mannor of <hi>Ramridge</hi> in <hi>Hampſhire,</hi> did in King <hi>Henry</hi> the Sixth's time, by Licenſe Found the Hoſpital of <hi>Ewelm</hi> in <hi>Oxfordſhire,</hi> which he appointed to conſiſt of a Maſter, School-Maſter, and Thirteen poor Men, and Endowed it with the ſaid Mannor of <hi>Ramridge,</hi> and other Lands, reſerving only to himſelf the Nomination of the ſaid Maſter, <hi>&amp;c.</hi>
+            </p>
+            <p>That <hi>Wayhil</hi>-Fair (being a Fair by Preſcription) has been held time out of mind about <hi>Michaelmas</hi>-Day on part of the ſaid Mannor called <hi>Ramridge-Down,</hi> and ſome part of it on a place called <hi>Bliſſomer-Hall-Acre,</hi> and the reſt of the Fair on the Glebe of the Rectory of <hi>Wayhil,</hi> the Advowſon whereof was given to <hi>Queens-College, Oxon</hi> by King <hi>Charles</hi> the Firſt, and the Incumbents thereof have ever ſince the Twenty Sixth of <hi>Henry</hi> the Eighth, paid Forty Shillings to the Crown in the Firſt-Fruits for the caſual Profits of Standing of the Fair, which of late Years have been worth to the Incumbent Sixty Pounds a Year.</p>
+            <p>That ever ſince the <hi>Hoſpital</hi> had the Mannor, they or their Tenants have yearly received about One Hundred and Twenty Pounds for the Pickage and Stallage for Stalls, Booths, Penns and Hurdles for Sheep in the ſaid Fair, which has been the chief Support of the <hi>Hoſpital</hi> by Fines, on granting Leaſes and great Rents.</p>
+            <p>That the Corporation of <hi>Andover,</hi> obſerving that no Toll or Show-Money was paid for Goods, Cattle, or Sheep ſold therein, did in the One and Fortieth Year of Queen <hi>Elizabeth</hi> procure a Grant to them of the Fair at <hi>Wayhil,</hi> with a Court of <hi>Pye-Powder,</hi> and Licenſe to take Toll, Show-Money, and other uſual Perquiſites of a Fair, and they got inſerted in their Grant likewiſe the Profits of Pickage and Stallage.</p>
+            <p>That after this Grant the Fair was always held in the ſame place as formerly, and the Corporation of <hi>Andover</hi> did never pretend to any thing more than to the Care and Government of the Fair, and the Toll and the above-mentioned Perquiſites.</p>
+            <p>But the Pickage and Stallage was always paid to the <hi>Hoſpital</hi> or their Tenants for breaking the Ground, <hi>&amp;c.</hi> as Owners of the Soil, the Corporation having no Land there, whereby to have any ſuch Pickage and Stallage.</p>
+            <p>That the Corporation of <hi>Andover,</hi> obſerving the Advantages of Pickage and Stallage to be ſo conſiderable, did by their Intereſt in 1683. procure a New Charter, (on the Surrender of their former for that purpoſe) and thereby got a Clauſe ſurreptitiouſly added, (not in their old Charter) to hold the Fair on any part of <hi>Wayhil</hi> which they could procure, and as they ſhould appoint; and in purſuance of it, did keep the Fair on <hi>Chalderton-Lanes</hi> in the Pariſh of <hi>Amport,</hi> and not on <hi>Wayhil.</hi>
+            </p>
+            <p>That <hi>William Drake</hi> Eſq; being Tenant of the ſaid Mannor, having ſetled it on Mr. <hi>Goddard</hi> in Truſt for his Wife for her Joynture, in Conſideration of a very Con<g ref="char:EOLhyphen"/>ſiderable Portion he had with her, this very <hi>Hoſpital-Leaſe</hi> of the Mannor of <hi>Ramridge,</hi> and Profits of Pickage and Stallage of this Fair, having from the Family of the <hi>Noyſe</hi> (from whom Mr. <hi>Drake</hi> is deſcended) been ever ſince King <hi>Henry</hi> the Eighth's time enjoyed by them.</p>
+            <p>Mr. <hi>Drake</hi> and his Wife, and Mr. <hi>Goddard,</hi> did prefer their Bill in <hi>Chancery</hi> to quiet them in the ancient Uſage of the Fair, and to hinder the Corporation from Remo<g ref="char:EOLhyphen"/>ving the Fair to any other place; and the Corporation inſiſting, That they being Lords of the Fair, and by their Grant had a Right to take Pickage and Stallage, and a liberty to appoint the Fair in what Place they pleaſed; The <hi>Chancery,</hi> after hearing the Cauſe, (wherein 'twas proved unqueſtionably the Hoſpital and their Tenants Right to have the Fair held on the old Place) did at the Corporations Requeſt, direct a Tryal at Law for the Aſcertaining it; and at <hi>Wincheſter</hi> Aſſizes 1683, a Verdict paſſed for the Right of the Hoſpital, but the Corporation obtained a new Tryal at the <hi>Exchequer</hi> Bar, by a ſpecial Jury of <hi>Hampſhire</hi> Gentlemen, and there it was found too for the Hoſpital, and Mr. <hi>Drake</hi> (in Right of the Hoſpital) had thereupon the Injunction of the Court for to quiet their Poſſeſſion therein, and till the late King <hi>James</hi>'s time they received the Pickage and Stallage, though the Corporation brought their <hi>Quo Warranto.</hi>
+            </p>
+            <p>That the Corporation did afterwards bring on the Cauſe again before the Lord Chancellor <hi>Jefferies,</hi> (who had been a little before incenſed againſt Mrs. <hi>Drake</hi> for ſome Words ſhe ſpoke) notwithſtanding the two Verdicts, and the Locality of the Action, the Lord <hi>Jefferies</hi> did direct it to be Tryed again at the <hi>Kings-Bench</hi> Bar, before the Lord Chief Juſtice <hi>Wright,</hi> by a <hi>Middleſex</hi> Jury, and there notwithſtanding a full Evidence, and particularly an ancient Preſentment Recorded in the Third year of King <hi>Henry</hi> the Eighth, that <hi>Thomas Noyſe,</hi> then Tenant of the ſaid Mannor, and his Predeceſſors, time out of mind, had the Right to the Pickage and Stallage, and the place of the Fair, ſet out particularly, that there could not be the leaſt doubt of it; And notwithſtanding there was at the Tryal likewiſe produced an ancient Almanack made in the Year 1570, (which was in time long before Queen <hi>Elizabeth</hi>'s Grant) which mentioned <hi>Wayhill</hi> to be then a principal Fair; and the place and uſage proved by above twenty old Witneſſes, yet (notwithſtanding theſe clear Evidences) by Chief Juſtice <hi>Wright</hi>'s Direction, the Jury gave a Verdict for the Corpora<g ref="char:EOLhyphen"/>tion, and the Lord Chancellor <hi>Jefferies</hi> did Order, That Mr. <hi>Drake,</hi> the Hoſpitals Tenant ſhould account for the Three Years preceding Profits of Pickage and Stal<g ref="char:EOLhyphen"/>lage to the Corporation, (notwithſtanding they did not pretend any Right to the Soil where the Fair thoſe Years was held) without which Right no Man can in Law or Reaſon pretend to Pickage or Stallage; but nevertheleſs by compulſion, the ſaid three Years Profits were paid.</p>
+            <p>That ſince Their Majeſties Acceſſion to the preſent Government, the Hoſpital, and Mr. <hi>Drake,</hi> did bring their Bill of Review againſt the Corporation; and the Lord, Commiſſioners of the Great Seal heard the Cauſe, and directed it to be Tryed again by a Jury of <hi>Hampſhire</hi> Gentlemen at the <hi>Kings Bench</hi> Bar; and after a long Evi<g ref="char:EOLhyphen"/>dence, a Verdict paſſed for the Hoſpital, <hi>viz.</hi> That the Corporation had Right to hold the Fair on the Hoſpital <hi>Down</hi> Lands, parcel of the Mannor of <hi>Ramridge,</hi> and on the Glebe Lands of the Rectory of <hi>Wayhill,</hi> and <hi>Bliſſomer-Hall-Acre,</hi> but had no Right or Power to have, or keep, the Fair on any other place at <hi>Wayhill</hi> at their Pleaſure.</p>
+            <p>That on the 22d of <hi>May</hi> laſt, the Lords Commiſſoners on the return of that Verdict, did declare themſelves fully ſatisfied therewith; and did Decree an Injunction, That the Corporation ſhould not hold, or keep the Fair on any other places than in the Verdict, and ordered the Corporation to repay the Money back with Intereſt that the Lord Chancellor <hi>Jefferies</hi> had Decreed Mr. <hi>Drake</hi> to pay, (which plainly ſhews the Sentiments of the Court then were, That the Fair ſhould be held in the ſame Places as formerly) and in purſuance of that Order, the Corporation paid back the Money with Intereſt accordingly.</p>
+            <p>That in purſuance of this Decree, Mr. <hi>Drake</hi> the Hoſpital Tenant, in <hi>September</hi> laſt, did provide Penns and Hurdles for Sheep, and erected ſeveral Booths on the Hoſpital Lands, called <hi>Ramridge-Down,</hi> and laid out Ground for to faſten the Hurdles, and to make Penns for Sheep; and to ſet Booths and Stalls on the <hi>Down,</hi> in the ſame Places as formerly, and did not queſtion but to Receive the benefit thereof on <hi>Michaelmaſs</hi> Fair following.</p>
+            <p>But the Corporation laying claim to the uſe of the <hi>Glebe-land,</hi> by vertue of certain Articles made in the Lord <hi>Jeffeies</hi> Time, and having lately agreed with the Owner of <hi>Bliſſomerhall-Acre,</hi> for a ſmall Sum, did appoint the empty Waggons, the Horſe-Fair, and other unprofitable things to be ſet on Mr. <hi>Drakes,</hi> the Hoſpital-Ground, of <hi>Rambridge-Down;</hi> but the Booths and Stalls for Chapmen, the Penns for Sheep, and other beneficial things, (the greateſt part whereof were heretofore ſet on the Hoſpital Ground) they appointed to be ſet on the <hi>Glebe</hi> and <hi>Bliſſomer-Hall-Acre,</hi> and ſeveral other Lands whereon no part of the Fair ever ſtood before, where<g ref="char:EOLhyphen"/>by the Corporation has got all the Profit of the Fair; which plainly eludes the Verdict and the Decree: And Mr. <hi>Drake,</hi> the Hoſpital-Tenant, who formerly made an Hundred and Twenty Pounds a Year by the Pickage and Stallage, did not, laſt <hi>Michaelmas</hi>-Fair make any think at all.</p>
+            <p>That Mr. <hi>Drake,</hi> in purſuance of the Decree, as he thought, did appoint Servants to Erect Booths and faſten Penns on the Hoſpital-Ground, againſt the Time of the Fair, and the Corporation ſerved them with the Decree of the Chancery, which the Servants (ſuppoſing the right of their ſide) unknown to Mr. <hi>Drake,</hi> uſed ſome diſreſpectful words to the Perſons that ſerved the Proceſs, and of the Commiſſioners of the Great Seal; whereupon the Corporation, by Petition, on the 15th of <hi>Sept.</hi> laſt, informed the Lords Commiſſioners of Mr. <hi>Drakes</hi> ſetting up Penns in other places than the Corporation appointed; and likewiſe of the Workmens contempt of the Proceſs; whereupon Their Lordſhips, on the Two and Twentieth of the ſame <hi>September</hi> laſt, in the firſt place did commit to the Fleet, the Workmen, for a ſuppoſed Contempt, and did order, That Mr. <hi>Drake,</hi> the Hoſpital-Tenant, ſhould not ſet up any Pens or Booths on the Down-Lands, otherwiſe than as the Corpo<g ref="char:EOLhyphen"/>ration ſhould appoint; ſo that Mr. <hi>Drake</hi> durſt not Erect any Penns or Booths on the Hoſpitals own Ground, left the Lords Commiſſioners ſhould conſtrue it as a contempt and breach of their Order.</p>
+            <p>That Mr. <hi>Drake</hi> and the Hoſpital looking on this laſt Order to vary from, and to evade all the benefit of the Decree and Verdict, do therefore pray, That the ſaid Order may be Reverſed by the Houſe of Lords; and that the Defendants may be enjoyned to hold the ſaid Fair as they have held it formerly (even from the 41ſt of Queen <hi>Eliz.</hi> to the 1ſt Year of King <hi>James</hi> the Second) and on the ſame Places; And that your Petitioners may have the Privilege of ſetting up Booths, Stalls, and Penns for Sheep, and other things on the Down-Lands, and of receiving the Profits thereof as formerly; whereby the Rights of the Hoſpital, and Rectory of <hi>Wayhil</hi> will be preſerved, and a great advantage will redound to a conſiderable part of the Nation, who reſort to this Fair; and who, upon the removal of it from off the ancient Places, may be driven from it.</p>
+            <pb facs="tcp:180479:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
